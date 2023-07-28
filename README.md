@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={5320shin})](https://solved.ac/{5320shin})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=5320shin)](https://solved.ac/5320shin)
